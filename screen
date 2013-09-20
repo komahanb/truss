@@ -1,0 +1,33 @@
+ 
+ iter    objective      ||grad||        inf_pr          inf_du         lg(mu)
+    0  0.5890465E+01  0.0000000E+00  0.4023309E+00  0.1252913E+01  0.1000000E+01
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+    1  0.2950073E+01  0.1728976E+01  0.8885775E+00  0.2057150E+01  0.9385490E-02
+    2  0.3683379E+01  0.1501343E+01  0.2821421E+00  0.4231070E+00  0.6494768E-01
+    3  0.4020385E+01  0.1223527E+01  0.5498270E-01  0.8337469E-01  0.2145037E-01
+    4  0.4131899E+01  0.5871509E+00  0.6315161E-02  0.8533862E-02  0.6998343E-03
+    5  0.4147629E+01  0.7776542E-01  0.9401002E-04  0.1328925E-03  0.1340256E-04
+    6  0.4147866E+01  0.1092259E-02  0.4582503E-07  0.6429311E-07  0.1645562E-10
+ 
+ The solution was found.
+ 
+ The final value of the objective function is    4.14786559518566     
+ 
+ The optimal values of X are:
+ 
+ X  (           1 ) =   0.731288061369527     
+ X  (           2 ) =    1.26662802413865     
+ X  (           3 ) =    7.07106727169094     
+ 
+ The multipliers for the equality constraints are:
+ 
+ LAM(           1 ) =    3.11089899913416     
+ LAM(           2 ) =    1.03696646029473     
+ LAM(           3 ) =   4.451283543410717E-009
+ 
