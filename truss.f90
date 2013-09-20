@@ -1,19 +1,3 @@
-! Copyright (C) 2002, 2010 Carnegie Mellon University and others.
-! All Rights Reserved.
-! This code is published under the Eclipse Public License.
-!
-!    $Id: hs071_f.f.in 1861 2010-12-21 21:34:47Z andreasw $
-!
-! =============================================================================
-!
-!
-!  This file contains routines to define a small Rosenbrock test problem.
-!
-!  f=0 at the optimal solution for x_i=1 for all i!
-!
-! =============================================================================
-!
-!
 ! =============================================================================
 !
 !                            Main driver program
