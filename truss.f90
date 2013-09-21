@@ -319,7 +319,6 @@
 !
 !     structure of Jacobian:
 !
-      integer AVAR1(8), ACON1(8)
 
       double precision  rho, L, sigmay, pi, p, E, Fs 
       
